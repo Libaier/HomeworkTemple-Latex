@@ -1,15 +1,14 @@
 HomeworkTemple-Latex
 ====================
 
-HomeworkTemple-Latex
+HomeworkTemples in latex for students in UCAS .
 
-HomeworkTemples for students in UCAS in latex version.
+1. Choose **pdfLaTex** to compile `homework-en.tex`.
 
-Choose **pdfLaTex** to compile `homework-en.tex`.
+2. Choose **XeLaTex** to compile `homework-zh.tex`.
 
-Choose **XeLaTex** to compile `homework-zh.tex`.
+**Notice**:
 
-Notice:
 If you are using the software `ctex` in windows, you can simply generate the pdf without changing anything in `homework-zh.tex`.
 Otherwise, you should use the following solution:
 
@@ -20,8 +19,8 @@ Otherwise, you should use the following solution:
 	\setCJKsansfont{simhei.ttf}
 	\setCJKmonofont{simfang.ttf}
 	
-We have tested it on ShareLaTex [sharelatex].
+We have tested it on [ShareLaTex].
 
 Hope you enjoy using our templates!
 
-[sharelatex]: www.sharelatex.com
+[ShareLaTex]: www.sharelatex.com
