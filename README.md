@@ -23,4 +23,4 @@ We have tested it on [ShareLaTex].
 
 Hope you enjoy using our templates!
 
-[ShareLaTex]: www.sharelatex.com
+[ShareLaTex]: http://sharelatex.com
