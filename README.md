@@ -14,7 +14,7 @@ Otherwise, you should use the following solution:
 
 	\usepackage{xeCJK}
 
-	% replace with your own fonts
+	% you can replace them with your own fonts
 	\setCJKmainfont{simsun.ttf}
 	\setCJKsansfont{simhei.ttf}
 	\setCJKmonofont{simfang.ttf}
