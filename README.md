@@ -10,7 +10,7 @@ HomeworkTemples in latex for students in UCAS .
 **Notice**:
 
 If you are using the software `ctex` in windows, you can simply generate the pdf without changing anything in `homework-zh.tex`.
-Otherwise, you should use the following solution:
+Otherwise, you should add the following code to the file:
 
 	\usepackage{xeCJK}
 
